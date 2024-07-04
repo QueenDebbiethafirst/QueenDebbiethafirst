@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @QueenDebbiethafirst
+- 👋 Hi, I’m Aanuoluwapo Deborah-Kristy Obisesan
 - 👀 I’m interested in everything phyton, devops and tech
 - 🌱 I’m currently learning Devops Enginering and Programming 
 - 💞️ I’m looking to collaborate on ...
